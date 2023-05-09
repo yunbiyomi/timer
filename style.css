@@ -1,0 +1,26 @@
+body {
+    height: 100vh;
+    background: rgb(240,244,255);
+    background: linear-gradient(135deg, rgba(240,244,255,1) 0%, rgba(240,244,255,1) 0%, rgba(165,182,238,1) 100%);
+}
+
+.title-img {
+    margin: 72px auto 60px auto;
+    width: 244px;
+    height: 48px;
+}
+
+.timer-box{
+    margin: 0 auto;
+    width: 400px;
+    height: 360px;
+    background: linear-gradient(144.07deg, #5572BB 2.13%, #374B7C 102.97%);
+    padding-top: 48px;
+    box-shadow: 20px 20px 60px 10px rgba(55, 75, 124, 0.4);
+    border-radius: 16px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
